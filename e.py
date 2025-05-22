@@ -6,4 +6,4 @@ d=10
 e=20
 f=d*e
 print(f)
-aprm kani enna sollichi
+apram da divya akka kita pesuniya
