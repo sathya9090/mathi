@@ -6,6 +6,4 @@ d=10
 e=20
 f=d*e
 print(f)
-hi dharun 
-nee innum sagalaya
-seekiram saagu daa
+aprm kani enna sollichi
