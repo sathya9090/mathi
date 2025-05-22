@@ -6,4 +6,3 @@ d=10
 e=20
 f=d*e
 print(f)
-apram da divya akka kita pesuniya
